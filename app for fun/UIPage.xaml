@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="app_for_fun.UIPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:app_for_fun"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="250">
+    <Grid>
+        <Button x:Name="shutDownBtn"  Content="Shut Down" HorizontalAlignment="Left" Height="26" Margin="16,117,0,0" VerticalAlignment="Top" Width="78" Click="shutDownBtn_Click"/>
+        <Button x:Name="dontShutDownBtn" Content="STOP!" HorizontalAlignment="Left" Height="56" Margin="133,98,0,0" VerticalAlignment="Top" Width="93" Click="dontShutDownBtn_Click" Foreground="Red" FontWeight="Bold" FontSize="21.333"/>
+        <TextBox x:Name="secondText" HorizontalAlignment="Left" Margin="16,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194"/>
+        <Label x:Name="label" Content="When do you want your PC to shut down ?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" Width="238"/>
+        <Label x:Name="label1" Content="SEC" HorizontalAlignment="Left" Height="28" Margin="210,70,0,0" VerticalAlignment="Top" Width="38"/>
+        <Label x:Name="label2" Content="Shut Donw in:" HorizontalAlignment="Left" Height="26" Margin="10,14,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="timerLbl"   HorizontalAlignment="Left" Height="26" Margin="87,11,0,0" VerticalAlignment="Top" Width="88" FontSize="14.667" FontWeight="Bold" Foreground="Red"/>
+    </Grid>
+</UserControl>

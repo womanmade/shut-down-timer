@@ -1,0 +1,16 @@
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\bin\Release\app for fun.exe.config
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\bin\Release\app for fun.exe
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\bin\Release\app for fun.pdb
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\MainWindow.g.cs
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\UIPage.g.cs
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\App.g.cs
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun_MarkupCompile.cache
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun_MarkupCompile.lref
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\MainWindow.baml
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\UIPage.baml
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun.g.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app_for_fun.Properties.Resources.resources
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun.csproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun.exe
+C:\Users\Mario\Documents\Visual Studio 2015\Projects\app for fun\app for fun\obj\Release\app for fun.pdb
